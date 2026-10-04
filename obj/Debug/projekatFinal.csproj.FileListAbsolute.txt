@@ -1,0 +1,7 @@
+C:\Users\elmal\OneDrive\Desktop\projekatFinal\projekatFinal\obj\Debug\projekatFinal.csproj.AssemblyReference.cache
+C:\Users\elmal\OneDrive\Desktop\projekatFinal\projekatFinal\obj\Debug\projekatFinal.csproj.CoreCompileInputs.cache
+C:\Users\elmal\OneDrive\Desktop\projekatFinal\projekatFinal\bin\Debug\projekatFinal.exe.config
+C:\Users\elmal\OneDrive\Desktop\projekatFinal\projekatFinal\bin\Debug\projekatFinal.exe
+C:\Users\elmal\OneDrive\Desktop\projekatFinal\projekatFinal\bin\Debug\projekatFinal.pdb
+C:\Users\elmal\OneDrive\Desktop\projekatFinal\projekatFinal\obj\Debug\projekatFinal.exe
+C:\Users\elmal\OneDrive\Desktop\projekatFinal\projekatFinal\obj\Debug\projekatFinal.pdb
