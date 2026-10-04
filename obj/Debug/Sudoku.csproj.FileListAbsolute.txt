@@ -1,7 +1,0 @@
-C:\Users\elmal\OneDrive\Desktop\pl projekat\sudoku\project\bin\Debug\projekatFinal.exe.config
-C:\Users\elmal\OneDrive\Desktop\pl projekat\sudoku\project\bin\Debug\projekatFinal.exe
-C:\Users\elmal\OneDrive\Desktop\pl projekat\sudoku\project\bin\Debug\projekatFinal.pdb
-C:\Users\elmal\OneDrive\Desktop\pl projekat\sudoku\project\obj\Debug\Sudoku.csproj.AssemblyReference.cache
-C:\Users\elmal\OneDrive\Desktop\pl projekat\sudoku\project\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
-C:\Users\elmal\OneDrive\Desktop\pl projekat\sudoku\project\obj\Debug\projekatFinal.exe
-C:\Users\elmal\OneDrive\Desktop\pl projekat\sudoku\project\obj\Debug\projekatFinal.pdb
